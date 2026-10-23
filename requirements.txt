@@ -12,10 +12,10 @@ faiss-cpu
 pandas
 edge-tts>=7.3.1
 pyttsx3>=2.98
-pywin32>=306
+pywin32>=306; sys_platform == 'win32'
 moviepy>=1.0.3
 Pillow>=9.0.0
-opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
 numpy>=1.24.0
 imageio>=2.4.1
 imageio-ffmpeg>=0.4.8
@@ -30,3 +30,7 @@ pytest>=8.0.0
 faster-whisper>=1.0.0
 ctranslate2>=4.0.0
 av>=11.0.0
+youtube-transcript-api>=0.6.2
+google-api-python-client>=2.100.0
+pydantic>=2.0.0
+
