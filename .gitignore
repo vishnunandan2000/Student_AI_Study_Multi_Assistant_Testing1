@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# C extensions
+*.so
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# Temporary files & media generation artifacts
+temp/
+*.log
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mkv
+*.srt.bak
+*.flv
+*.webm
+
+# Database files
+data/*.db
+data/*.sqlite3
+data/*.db-wal
+data/*.db-shm
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db

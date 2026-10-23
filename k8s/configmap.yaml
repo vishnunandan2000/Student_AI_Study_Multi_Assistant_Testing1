@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+  namespace: student-assistant
+data:
+  ENVIRONMENT: "production"
+  MYSQL_HOST: "mysql"
+  MYSQL_PORT: "3306"
+  MYSQL_DB: "ai_assistant"
+  REDIS_URL: "redis://redis:6379/0"
+  BACKEND_URL: "http://backend:8000"

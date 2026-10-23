@@ -1,0 +1,11 @@
+1.	Create clean handwritten-style study notes with simple diagrams on [Topic]. Make it look like a topper’s notebook. Use clear headings, bullet points and small illustrations.
+
+2.	Create colourful sticky notes style summary of [Topic]. Put each important point on a separate sticky note with icons. Keep it revision-friendly.
+
+3.	Create a clear hand written educational diagram explaining [Topic] with labels. Use simple illustrations and short explanations for students. Make it visually organized and suitable for quick revision.
+
+4.	Convert this page into handwritten-style notes with a diagram.
+
+5.	Teach me [Topic] by asking me questions step by step. Don’t give me the answer directly.
+
+6.	Act as my examiner. Ask me 10 questions on [Topic] one by one and rate my answers.
